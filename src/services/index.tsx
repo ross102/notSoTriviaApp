@@ -1,0 +1,1 @@
+export { default as QuizApi } from "./quizApi";
